@@ -22,9 +22,3 @@ Das vierte und letzte Königreich der Hochelfen nennt sich *Cel'imgith* und bein
 Trotz ihrer Hochkultur schreckt es die Vìker nicht ab auch Hochelfen zu überfallen. Östlich der Stadt Lith'Illum gibt es ein Gebiet welches besonders stark von den Vìkern überfallen wurde.
 
 
-
-
-
-[[HE Religion Stats|HE Religion Stats]]
-[[HE Kultur Stats|HE Kultur Stats]]
-[[HE Religion|HE Religion]]

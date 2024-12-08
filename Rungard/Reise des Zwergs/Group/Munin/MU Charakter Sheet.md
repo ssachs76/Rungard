@@ -35,27 +35,12 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 5
-		Benötigte Exp:
-			4.500
-			
-		
+	Level: 14
 		Erhaltene Exp:
-			4.100
-			
-		
-		Fehlende Exp:
-			400
+			10.400
 			
 
 
-**Lebenspunkte**:
-	
-	 Level:         10
-	 Konstitution:  4
-	 Sonstiges:     4
-
-	Gesamt: 29
 
 
 **Kulturboni**:
@@ -109,7 +94,7 @@ Bonus Aktionen:  1
 		Schuhe:
 			Reise Kettenschuhe = 1 RK  
 		
-		RK = 12
+		RK = 12 +(4) +2 = 18
 	
 	Waffen/Accessoires:
 		Umhang:

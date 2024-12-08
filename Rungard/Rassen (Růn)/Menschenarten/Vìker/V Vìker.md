@@ -6,8 +6,3 @@ Auch bei den Vìkern gibt es viele kleine Reiche. Allerdings sind das nur einzel
 
 "ᛏᛁᛁ ᛘᛅᚴᚼᛏ ᛏᛁᚱ ᛒᛅᚱᛒᛅᚱᛁᚾ ᚢᛁᚱᛏ ᚾᛁᚴᚼᛏ ᛅᚢᛋᚱᛁᛁᚴᚼᛁᚾ"
 -Vìkerische Runen
-
-
-[[V Religion Stats|V Religion Stats]]
-[[V Religion|V Religion]]
-[[V Kultur Stats|V Kultur Stats]]

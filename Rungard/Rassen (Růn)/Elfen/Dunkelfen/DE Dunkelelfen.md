@@ -31,6 +31,3 @@ An die letzte Stelle teilen sich die Stadtstaaten *Xund*, welcher zwischen *An'E
 
 
 
-[[DE Religion|DE Religion]]
-[[DE Kultur Stats|DE Kultur Stats]]
-[[DE Religion Stats|DE Religion Stats]]

@@ -29,9 +29,3 @@ Zuletzt, weiter Südlich liegt das Herzogtum *Rhôtr Zugûl (ᚱᚻᛟᛏᚱ᛫�
 Obwohl der vorherige König *Drheûn 'der Gute'* ein Gesetz erlassen hat, welches den Krieg im gesamten Reich verbietet, greift *Dhaîn* trotzdem nicht ein und ist nur noch sehr selten zu den Ratssitzungen anwesend.
 Viele der Bronzezwerge vermuten er sei *Goldkrank* und verbringt alle Zeit damit, sein Reichtum zu bestaunen.
 
-
-
-
-[[BZ Religion Stats|BZ Religion Stats]]
-[[BZ Kultur Stats|BZ Kultur Stats]]
-[[BZ Religion|BZ Religion]]

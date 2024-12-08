@@ -7,11 +7,3 @@ Heute leben Drachengeborene im Clans über ganz Růn verteilt. Der größte der 
 
 
 
-
-
-
-[[DG Religion Stats|DG Religion Stats]]
-[[DG Kultur Stats|DG Kultur Stats]]
-[[DG Religion|DG Religion]]
-[[WY Wyvern]]
-[[D Drachen]]

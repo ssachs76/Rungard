@@ -16,9 +16,3 @@ Bison
 Jeder dieser Tiere hat einen Hauptclan und darunter viele kleinere Cläne mit anderen Fellmustern oder sonstigen Änderungen, aber trotzdem beten sie das gleiche Urtier an.
 
 
-
-
-
-
-[[DJ Kultur Stats|DJ Kultur Stats]]
-[[DJ Religion|DJ Religion]]

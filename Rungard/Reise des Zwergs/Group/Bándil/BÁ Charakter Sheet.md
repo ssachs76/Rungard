@@ -35,27 +35,10 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 9
-		Benötigte Exp:
-			4.500
-			
-		
+	Level: 14
 		Erhaltene Exp:
-			4.000
+			10.300
 			
-		
-		Fehlende Exp:
-			4.000
-			
-
-
-**Lebenspunkte**:
-	
-	 Level:         10
-	 Konstitution:  +2
-	 Sonstiges:     +3(Level(Kultur))
-
-	Gesamt: 16
 
 
 **Kulturboni**:
@@ -104,7 +87,7 @@ Bonus Aktionen:  1
 		Schuhe:
 			Roylae Reiseschuhe =  2RK  
 		
-		RK = 17 +(3) = 20
+		RK = 17 +(3) +2 = 22
 	
 	Waffen/Accessoires:
 		Umhang:
@@ -120,17 +103,19 @@ Bonus Aktionen:  1
 			Silberamulett
 		
 		Waffe R:
-			Kriegsaxt
-				2d8 Wuchtschaden
-				Beidhändig
+			Meisterhafter Brutaler Kriegshammer
+				4d5 Waffenschaden +4 Blutungschaden
+				
 		
 		Waffe L:
-			Kriegsaxt
-				2d8 Wuchtschaden
+			Schild mit Grafschaftswappen
+				+2 RK
 		
 	
 	Inventar:
 		Heiltrank (1d3 Heilung: 5 Runden)
-		10x Mittlerer Heiltrank (1d7 Heilung: 6 Runden)
+		22x Mittlerer Heiltrank (1d7 Heilung: 6 Runden)
+		10x Großer Heiltrank
+		250x Goldmünzen
 	
 	

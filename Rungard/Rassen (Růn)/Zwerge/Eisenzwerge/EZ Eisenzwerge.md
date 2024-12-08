@@ -15,6 +15,3 @@ Zuletzt kommt *Dêrn*, welcher Herzog von *K'ûlg'ûl (ᚳᚢᛚᚷᚢᛚ)* ist.
 
 
 
-[[EZ Religion Stats|EZ Religion Stats]]
-[[EZ Kultur Stats|EZ Kultur Stats]]
-[[EZ Religion|EZ Religion]]

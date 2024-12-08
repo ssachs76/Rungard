@@ -35,27 +35,10 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 9
-		Benötigte Exp:
-			4.500
-			
-		
+	Level: 14
 		Erhaltene Exp:
-			4.100
+			10.400
 			
-		
-		Fehlende Exp:
-			400
-			
-
-
-**Lebenspunkte**:
-	
-	 Level:         10
-	 Konstitution:  4
-	 Sonstiges:     4
-
-	Gesamt: 29
 
 
 **Kulturboni**:
@@ -109,7 +92,7 @@ Bonus Aktionen:  1
 		Schuhe:
 			Reise Kettenschuhe = 1 RK  
 		
-		RK = 12
+		RK = 12 +(4) = 16
 	
 	Waffen/Accessoires:
 		Umhang:
@@ -125,12 +108,13 @@ Bonus Aktionen:  1
 			Silberamulett
 		
 		Waffe R:
-			Schild mit Grafschaftswappen
-				+2 RK
+			Kriegsaxt
+				2d8 Wuchtschaden
+				Beidhändig
 		
 		Waffe L:
-			Kriegshammer
-				2d6 Wuchtschaden
+			Kriegsaxt
+				2d8 Wuchtschaden
 		
 	
 	Inventar:

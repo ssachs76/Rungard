@@ -43,6 +43,3 @@ Ebenso wie es wenige Gildenhäuser gibt, gibt es auch noch wenige Abenteurer.
 Noch gibt es das Problem, dass es viele Aufträge gibt aber einfach zu wenige, welche sie annehmen können.
 
 
-[[M Religion Stats|M Religion Stats]]
-[[M Kultur Stats|M Kultur Stats]]
-[[M Religion|M Religion]]

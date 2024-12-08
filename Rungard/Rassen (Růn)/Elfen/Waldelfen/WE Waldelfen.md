@@ -17,9 +17,3 @@ Das vierte und letzte Reich der Waldelfen ist weiter im Westen und halt ebenfall
 
 
 
-
-
-
-[[WE Religion Stats|WE Religion Stats]]
-[[WE Kultur Stats|WE Kultur Stats]]
-[[WE Religion|WE Religion]]
