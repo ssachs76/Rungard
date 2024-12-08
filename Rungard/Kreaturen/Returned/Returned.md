@@ -1,0 +1,1 @@
+Returned sind unkorrumpierte Seelen, welche in ihren Toten verwesten Körper zurückkehren. Dies passiert nur bei besonders Bösen und durchtriebenen Seelen.

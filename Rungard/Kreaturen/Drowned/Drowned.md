@@ -1,0 +1,2 @@
+Drowned sind Monster, welche nur an stellen mit tiefem Wasser auftauchen. Es sind die Körper von Ertrunken, nachdem sie mehrere Jahre im Wasser durch Korruption zu Drowned machen.
+Sie greifen alles lebende, was dem Wasser zu nahe kommt an und brauchen weder Schlaf noch Nahrung um zu überleben.

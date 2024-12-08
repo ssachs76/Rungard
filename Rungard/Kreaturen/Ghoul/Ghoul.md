@@ -1,0 +1,1 @@
+Ghouls sind korrumpierte Kadaver von Menschen. Sie ernähren sich von Leichen, welche besonders schlimm zugerichtet sind und verteidigen ihr Essen. Wenn ein Mensch noch schlimmer korrumpiert wurde, dann wird der zu einem Wendigo.

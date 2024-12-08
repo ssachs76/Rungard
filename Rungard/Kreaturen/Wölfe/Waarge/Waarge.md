@@ -1,0 +1,1 @@
+Waarge sind etwas größere Wölfe und sind ausschließlich im Maanlandt zu finden. Man sagt ihnen nach, dass sie noch besonders viel der ersten Tiere in ihrem Blut haben.
