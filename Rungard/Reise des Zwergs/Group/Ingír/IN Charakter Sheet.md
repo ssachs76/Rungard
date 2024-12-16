@@ -34,10 +34,23 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 15
-		Erhaltene Exp:
-			10.900
+	Level: 17
+		Benötigte Exp:
 			
+			
+		
+		Erhaltene Exp:
+			14.700
+			
+		
+		Fehlende Exp:
+			
+			
+
+
+**Lebenspunkte**:
+	
+	Gesamt: 48
 
 
 **Kulturboni**:
@@ -117,10 +130,11 @@ Bonus Aktionen:  1
 		
 	
 	Inventar:
-		343x Goldtaler
-		4x Mittlerer Heiltrank (1d7 Lebenspunkte: 7 Runden)
+		74x Goldtaler
+		278x Silbertaler
+		2x Mittlerer Heiltrank (1d7 Lebenspunkte: 6 Runden)
 		1x Dunkelkiefer 
-		7x Normaler Pfeil
+		18x Normaler Pfeil
 	
 
 

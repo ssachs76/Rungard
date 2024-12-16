@@ -35,10 +35,23 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 14
-		Erhaltene Exp:
-			10.300
+	Level: 17
+		Benötigte Exp:
 			
+			
+		
+		Erhaltene Exp:
+			14.100
+			
+		
+		Fehlende Exp:
+			
+			
+
+
+**Lebenspunkte**:
+	
+	Gesamt: 59
 
 
 **Kulturboni**:
@@ -71,7 +84,8 @@ Bonus Aktionen:  1
 	
 	Rüstung
 		Helm/Kopfbedeckung:
-			Royaler Reisehelm = 2RK
+			Schwerer Zwergenhelm aus Meteoriteneisen = 4RK
+				2d4 Feuerschaden bei gegnerischen Kritischentreffern
 		
 		Brustpanzer:  
 			Royaler Reiseschuppenpanzer =  6RK
@@ -87,7 +101,7 @@ Bonus Aktionen:  1
 		Schuhe:
 			Roylae Reiseschuhe =  2RK  
 		
-		RK = 17 +(3) +2 = 22
+		RK = 19 +(3) +2 = 24
 	
 	Waffen/Accessoires:
 		Umhang:
@@ -104,18 +118,15 @@ Bonus Aktionen:  1
 		
 		Waffe R:
 			Meisterhafter Brutaler Kriegshammer
-				4d5 Waffenschaden +4 Blutungschaden
-				
+				4d5 Waffenschaden + 4 Blutungsschaden
 		
 		Waffe L:
 			Schild mit Grafschaftswappen
 				+2 RK
-		
 	
 	Inventar:
 		Heiltrank (1d3 Heilung: 5 Runden)
-		22x Mittlerer Heiltrank (1d7 Heilung: 6 Runden)
-		10x Großer Heiltrank
-		250x Goldmünzen
-	
-	
+		19x Mittlerer Heiltrank (1d7 Heilung: 6 Runden)
+		5x Große Heiltrank (1d10 7 Runden )
+		256x Goldmünzen
+

@@ -35,10 +35,23 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 14
-		Erhaltene Exp:
-			10.400
+	Level: 17
+		Benötigte Exp:
 			
+			
+		
+		Erhaltene Exp:
+			14.200
+			
+		
+		Fehlende Exp:
+			
+			
+
+
+**Lebenspunkte**:
+	
+	Gesamt: 61
 
 
 **Kulturboni**:
@@ -76,7 +89,8 @@ Bonus Aktionen:  1
 	
 	Rüstung
 		Helm/Kopfbedeckung:
-			Reise Kettenhelm = 1 RK
+			Royaler Reisehelm = 2RK
+				
 		
 		Brustpanzer:  
 			Reise Kettenhemd =  5 RK 
@@ -92,7 +106,7 @@ Bonus Aktionen:  1
 		Schuhe:
 			Reise Kettenschuhe = 1 RK  
 		
-		RK = 12 +(4) = 16
+		RK = 11 +4 = 15
 	
 	Waffen/Accessoires:
 		Umhang:
