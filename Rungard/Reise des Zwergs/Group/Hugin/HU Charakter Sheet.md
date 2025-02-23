@@ -1,7 +1,7 @@
 **Name**:  Hugin
 **Hintergrund/Beruf**:  Leibwächter
-**Level**: 2
-Basis Aktionen: 1
+**Level**: 20
+Basis Aktionen: 2
 Bonus Aktionen:  1
 
 
@@ -35,13 +35,13 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 17
+	Level: 28 +2 (30)
 		Benötigte Exp:
 			
 			
 		
 		Erhaltene Exp:
-			14.200
+			39.660
 			
 		
 		Fehlende Exp:
@@ -51,7 +51,7 @@ Bonus Aktionen:  1
 
 **Lebenspunkte**:
 	
-	Gesamt: 61
+	Gesamt: 104
 
 
 **Kulturboni**:
@@ -119,7 +119,8 @@ Bonus Aktionen:  1
 			
 		
 		Amulett:
-			Silberamulett
+			Amulett der Wachsamkeit
+				+1 auf Initiative
 		
 		Waffe R:
 			Kriegsaxt

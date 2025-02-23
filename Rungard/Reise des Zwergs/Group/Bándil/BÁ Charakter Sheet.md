@@ -1,7 +1,7 @@
 **Name**:  Bándil, Fúndils Sohn
 **Hintergrund/Beruf**: Schmied
-**Level**: 1
-Basis Aktionen: 1
+**Level**: 20
+Basis Aktionen: 2
 Bonus Aktionen:  1
 
 
@@ -35,13 +35,13 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 17
+	Level: 28 +2 (30)
 		Benötigte Exp:
 			
 			
 		
 		Erhaltene Exp:
-			14.100
+			39.560
 			
 		
 		Fehlende Exp:
@@ -51,7 +51,7 @@ Bonus Aktionen:  1
 
 **Lebenspunkte**:
 	
-	Gesamt: 59
+	Gesamt: 102
 
 
 **Kulturboni**:
@@ -113,20 +113,47 @@ Bonus Aktionen:  1
 		Ring 2:
 			
 		
+		Armband:
+			Magisches Armband
+				ᛗᚨᛁ ᚦᛖᛖ ᛊᛗᛁᛏᛖ ᚦᛁ ᛖᚾᛖᛗᛁᛖᛊ ᛒᛁ ᛚᛁᚷᚺᛏᚾᛁᛜ
+				1x /LR Blitzniederschmettern
+					2d13 Blitzschaden
+		
 		Amulett:
-			Silberamulett
+			Amullet der Freude
+				+2 auf Überzeugungswürfe
 		
 		Waffe R:
 			Meisterhafter Brutaler Kriegshammer
 				4d5 Waffenschaden + 4 Blutungsschaden
 		
 		Waffe L:
-			Schild mit Grafschaftswappen
-				+2 RK
+			Meisterhafters Kriegsschild
+				+5 RK (3+2)
+				
 	
 	Inventar:
 		Heiltrank (1d3 Heilung: 5 Runden)
 		19x Mittlerer Heiltrank (1d7 Heilung: 6 Runden)
-		5x Große Heiltrank (1d10 7 Runden )
-		256x Goldmünzen
+		31x Große Heiltrank (1d10 7 Runden )
+		511x Goldmünzen
+		250x Silbermünze
+		3x Weinfalsche aus 866 n.d.W.
+		3x Arbenteurermünze Bronze
+		5x Meteorit von herforragender Qualität
+		12x Korrumpierter Stahl
+		Silberamulett
+		2x Schild mit Grafschaftswappen
+			+2 RK
+		Korrumpiertes Langschwert der Valkyre
+			5d6 +6 Schnittschaden
+			1d25 auf Korruptionswurf jeden Tag
+			(lvl 23)
+		Korrumpierter Helm der Valkyre
+			RK = 4
+			Fähigkeit
+				Ermöglicht Fliegen
+			1d20 Korruptionswurf jeden Tag
+			(lvl 25)
+
 

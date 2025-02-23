@@ -1,7 +1,7 @@
 **Name**:  Munin
 **Hintergrund/Beruf**:  Leibwächter
-**Level**: 2
-Basis Aktionen: 1
+**Level**: 20
+Basis Aktionen: 2
 Bonus Aktionen:  1
 
 
@@ -35,13 +35,13 @@ Bonus Aktionen:  1
 
 **Experience fürs nächste Level**:
 	
-	Level: 17
+	Level: 28 +2 (30)
 		Benötigte Exp:
 			
 			
 		
 		Erhaltene Exp:
-			14.200
+			39.660
 			
 		
 		Fehlende Exp:
@@ -51,7 +51,7 @@ Bonus Aktionen:  1
 
 **Lebenspunkte**:
 	
-	Gesamt: 61
+	Gesamt: 104
 
 
 **Kulturboni**:
@@ -105,14 +105,15 @@ Bonus Aktionen:  1
 		Schuhe:
 			Reise Kettenschuhe = 1 RK  
 		
-		RK = 12 +4 +2 = 18
+		RK = 10 +4 = 14
 	
 	Waffen/Accessoires:
 		Umhang:
 			Umhang mit Grafschaftswappen
 		
 		Ring 1:
-			
+			Ring der erholung
+				1d3 Heilung alle 4 Runden
 		
 		Ring 2:
 			
@@ -121,12 +122,13 @@ Bonus Aktionen:  1
 			Silberamulett
 		
 		Waffe R:
-			Schild mit Grafschaftswappen
-				+2 RK
+			Meisterhafter Kriegshammer
+				3d6 +6 Wuchtschaden
 		
 		Waffe L:
-			Kriegshammer
-				2d6 Wuchtschaden
+			Meisterhafter Kriegshammer
+				3d6 +6 Wuchtschaden
+				Beidhändig
 		
 	
 	Inventar:

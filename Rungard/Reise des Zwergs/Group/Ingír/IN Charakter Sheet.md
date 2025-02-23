@@ -1,7 +1,7 @@
 **Name**:  Ingír, Sohn von Ûngrír
 **Hintergrund/Beruf**: Abenteurer: Übung in Langbogen
-**Level**: 5
-Basis Aktionen: 1
+**Level**: 20
+Basis Aktionen: 2
 Bonus Aktionen:  1
 
 **Attribute**:
@@ -27,20 +27,20 @@ Bonus Aktionen:  1
 		Stärke            -1
 		Geschicklichkeit  +4
 		Konstitution      +3
-		Intelligenz       +1
-		Weisheit          -1
+		Intelligenz       -1
+		Weisheit          +2
 		Charisma          +1
 
 
 **Experience fürs nächste Level**:
 	
-	Level: 17
+	Level: 28 +2 (30)
 		Benötigte Exp:
 			
 			
 		
 		Erhaltene Exp:
-			14.700
+			40.160
 			
 		
 		Fehlende Exp:
@@ -50,7 +50,7 @@ Bonus Aktionen:  1
 
 **Lebenspunkte**:
 	
-	Gesamt: 48
+	Gesamt: 78
 
 
 **Kulturboni**:
@@ -105,7 +105,8 @@ Bonus Aktionen:  1
 			/
 		
 		Ring 1:
-			/
+			Ring der Genauigkeit
+				Vorteil bei Zielsicherheit mit Bogen
 		
 		Ring 2:
 			/
@@ -114,28 +115,34 @@ Bonus Aktionen:  1
 			/
 		
 		Fernkampfwaffe/Offhandwaffe
-			Langbogen aus Dunkelkiefer
-				2d9 Wuchtschaden
-				Nutzt Geschicklichkeits Modifikator
+			Bogen von heldenhafter Qualität
+				2d12 +4 Wuchtschaden
+			
 		
 		Waffe R:
-			Meisterhaftes Stahllangschwert
-				2d6 +2 Schnittschaden
-				Nutzt Geschicklichkeits Modifikator
+			Magisches Langschwert
+				2d8 Schnittschaden +4 Blutungsschaden
 		
 		Waffe L:
-			Kurfiges Langschwert aus Silber
+			Kurfiges Langschwert aus Silber 'Vampirschlächter'
 				2d6 +3 Schnittschaden
 				Nutzt Geschicklichkeits Modifikator 
 		
 	
 	Inventar:
 		74x Goldtaler
-		278x Silbertaler
+		233x Silbertaler
 		2x Mittlerer Heiltrank (1d7 Lebenspunkte: 6 Runden)
 		1x Dunkelkiefer 
-		18x Normaler Pfeil
-	
+		10x Normaler Pfeil
+		2x Feuerpfeile
+			+1d4 Feuerschaden
+		Meisterhaftes Stahllangschwert
+				2d6 +2 Schnittschaden
+				Nutzt Geschicklichkeits Modifikator
+		Bogen aus Dunkelkiefer
+			2d9 Wuchtschaden
+		Arbenteurermünze Silber
 
 
 **Fähigkeiten**:
